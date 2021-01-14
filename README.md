@@ -13,3 +13,7 @@ This goes to /usr/local/bin/
 These goes to /etc/systemd/system/
 - fan-when-charging.service
 - fan-when-charging.timer
+
+
+Reason for this is that on Linux the fan rarely spins when on battery unless you're compiling or doing something heavy.
+Also when you charge without fan the top cover gets quite toasty.
