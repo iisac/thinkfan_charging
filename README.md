@@ -1,4 +1,4 @@
-# Thinkfan charging on T440p
+# Thinkfan and charging on T440p
 Thinkfan ON when charging
 
 
