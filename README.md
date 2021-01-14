@@ -1,5 +1,5 @@
 # thinkfan_charging on T440p
-Thinkfan on when charging
+Thinkfan ON when charging
 
 
 These goes to /etc/
