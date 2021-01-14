@@ -16,4 +16,4 @@ These goes to /etc/systemd/system/
 
 
 Reason for this is that on Linux the fan rarely spins when on battery unless you're compiling or doing something heavy.
-Also when you charge without fan the top cover gets quite toasty.
+Also when you charge without fan the top cover where you rest your left palm gets quite toasty.
